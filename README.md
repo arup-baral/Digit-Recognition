@@ -1,7 +1,7 @@
 ## Hand-written digit recognition using deep learning
 
-* `__ANN__` based classification
-* `__CNN__` based classification
+* __ANN__ based classification
+* __CNN__ based classification
 
 Model | Training Accuracy | Test Accuracy
 --- | --- | ---
